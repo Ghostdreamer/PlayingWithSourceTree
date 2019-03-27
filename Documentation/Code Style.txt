@@ -1,0 +1,11 @@
+Never have more than 80 characters on a line
+Always provide useful tooltips for public variables
+Always provide /// comments for private variables and methods.
+Put all assets in /Assets/Game/_YourName
+Put all images in /Assets/Game/_Sprites
+
+
+Levels and Level Assets:
+
+Level assets will be located in /Assets/Game/Level_#/LevelAssets
+Universal Prefabs (prefabs that will be used in multiple levels) will be located in /Assets/Game/UniversalPrefabs
